@@ -1,6 +1,8 @@
 # Secure-Online-Banking-PROD
 Secure online banking Product is a banking application where all account holders can perform necessary banking operation.
 
+Note : Don't forget to scroll down to see glimpse of this product..
+
 It's is kinda web application, Technologies used in this project are Java Spring boot Framework, PostgreSql for storing Data into database, HTML, CSS, Bootstrap, JSP are used for presentation layer. Spring Security has been implemented in this project which enables more security to the application which means only authenticated person is allowed to utilize this product. To ensure password protection all password have been stored into database as **Bcrypt password encoder format** which uses Hashing function so no one can see original password ( Plain Text ), Moreover cracking Bcrypt password is really difficult task. RabbitMq concept has been implemented for sending data across microservices to perform neccessary operation. 
 
 RabbitMq is a message broker communication system, it is responsible to listen the queue frequently once data is avilable in the queue it will start processing its operation by it's queue, exchange and routing key.
