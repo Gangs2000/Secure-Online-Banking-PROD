@@ -40,7 +40,7 @@ In this prodcut two microservices have been developed..
 ![Screenshot from 2022-09-10 18-51-57](https://user-images.githubusercontent.com/112934529/189485308-9e474fc1-1e59-4095-93a1-901eadd7b804.png)
 
 
-**Futute plans :**
+**Future release may expect below points :**
 
 1. Expect to be deployed on any cloud platform ( AWS or AZURE ) to host the product
 2. Outh2 Social Networking login will be implemented in this product so that user can create new account by authenticating their google account
